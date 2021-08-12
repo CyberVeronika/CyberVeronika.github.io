@@ -2,6 +2,8 @@
 
 body{
      font-family: 'Lato', sans-serif;
+     background: #000000; 
+     color: #ffffff; 
 }
 
 .page-navbar.navbar{
