@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400");
 
 body{
-     background-color: #000000; 
+     background-color: #2e2e2d; 
      font-family: 'Lato', sans-serif;
      color: #ffffff; 
 }
@@ -38,7 +38,7 @@ body{
 }
 
 .download-template:hover{
-    background-color: #0eb7ff;
+    background-color: #ffab0e;
 }
 
 .gradient{
@@ -110,13 +110,13 @@ body{
     float: none;
     font-weight: bold;
     margin-top: 4px;
-    color: #6c757d;
+    color: #fff;
     opacity: 0.8;
 }
 
 .cv-block.info .group .organization{
     font-size: 0.85em;
-    background-color: #0ea0ff;
+    background-color: #ffab0e;
     display: inline-block;
     color: #fff;
     padding: 2px 8px;
@@ -124,7 +124,7 @@ body{
 }
 
 .cv-block.info .education.group .organization{
-    background-color: #20c997; 
+    background-color: #ffab0e; 
 }
 
 .cv-block.info .group .item{
@@ -145,41 +145,6 @@ body{
 .cv-block.info .work-experience h3,
 .cv-block.info .education h3{
     font-weight: bold;
-}
-
-.cv-block .info-card{
-    padding: 40px;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
-    height: 100%;
-}
-
-.cv-block .info-card h2{
-    margin-top: 0;
-    margin-bottom: 24px !important;
-    font-size: 1.4rem;
-}
-
-.cv-block .info-card.skills h3{
-    margin-top: 25px;
-    font-size: 1rem;
-    font-weight: bold;
-}
-
-.cv-block .info-card.skills .progress{
-    height: 3px;
-}
-
-.cv-block .info-card.contact-info .icon{
-    font-size: 1.3em;
-    color: #c9c9c9;
-    position: relative;
-    bottom: 4px;
-}
-
-.cv-block.info .hobbies p{
-    max-width: 700px;
-    margin: auto;
-    font-size: 1.2em;
 }
 
 .page-footer{
