@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400");
 
 body{
-     background-color: #2e2e2d; 
+     background-color: ##1c1c1c; 
      font-family: 'Lato', sans-serif;
      color: #ffffff; 
 }
@@ -28,7 +28,7 @@ body{
 
 .download-template{
     color: #fff;
-    background-color: #36b3ed;
+    background-color: #d02af5;
     border: none;
     font-weight: bold;
     text-transform: uppercase;
