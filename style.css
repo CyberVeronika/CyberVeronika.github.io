@@ -44,7 +44,7 @@ a:active {
 
 .download-template{
     color: #fff;
-    background-color: #c300ff;
+    background-color: #0088ff;
     border: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -58,7 +58,7 @@ a:active {
 }
 
 .gradient{
-    background: linear-gradient(120deg, #ffab0e, #50f547, #0e76ff);
+    background: linear-gradient(120deg, #ffab0e, #0e76ff);
     color: #fff !important;
 }
 
@@ -186,6 +186,7 @@ a:active {
 .page-footer .social-icons{
     margin-top: 20px;
     margin-bottom: 16px;
+    color: #ffab0e;
 }
 
 .page-footer .social-icons a{
