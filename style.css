@@ -44,7 +44,7 @@ a:active {
 
 .download-template{
     color: #fff;
-    background-color: #afc8db;
+    background-color: #ffab0e;
     border: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -54,7 +54,7 @@ a:active {
 }
 
 .download-template:hover{
-    background-color: #ffab0e;
+    background-color: #0e76ff;
 }
 
 .gradient{
