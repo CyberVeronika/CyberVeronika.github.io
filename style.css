@@ -58,7 +58,7 @@ a:active {
 }
 
 .gradient{
-    background: linear-gradient(120deg, #ffab0e, #cb0eff, #0e76ff);
+    background: linear-gradient(120deg, #ffab0e, #0e76ff);
     color: #fff !important;
 }
 
