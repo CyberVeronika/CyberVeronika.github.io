@@ -35,8 +35,8 @@ a:active {
 }
 
 .page-navbar .logo{
-    font-size: 1.5rem;
-    text-align: center;
+    text-align: center; 
+    font-size: 3rem;
 }
 
 .page-navbar.fixed-top + .page{
@@ -92,8 +92,8 @@ a:active {
  }
 
 .cv-block.block-intro .avatar{
-    width: 600px;
-    height: 600px;
+    width: 400px;
+    height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
