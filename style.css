@@ -36,6 +36,7 @@ a:active {
 
 .page-navbar .logo{
     font-size: 1.5rem;
+    text-align: center;
 }
 
 .page-navbar.fixed-top + .page{
@@ -54,7 +55,7 @@ a:active {
 }
 
 .download-template:hover{
-    background-color: #0e76ff;
+    background-color: #4e5052;
 }
 
 .gradient{
@@ -91,8 +92,8 @@ a:active {
  }
 
 .cv-block.block-intro .avatar{
-    width: 300px;
-    height: 300px;
+    width: 600px;
+    height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
